@@ -1,0 +1,14 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "GREEN EXCHANGES INDEX",
+    "setSymbol": "GEX",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/green-indexes-GEX.png",
+    "setDescription": "",
+    "managerName": "GREEN Group",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/green-group.png",
+    "managerDescription": ""
+  },
+  "version": 1
+}
