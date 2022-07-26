@@ -542,6 +542,14 @@
       "symbol": "SCASH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/supercash.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x74fdeb5e873b1b1dc2639fef3f2456e9763e1881",
+      "name": "GREEN EXCHANGES INDEX",
+      "symbol": "GEX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/green-indexes-GEX.png"
     }
   ],
   "version": {
